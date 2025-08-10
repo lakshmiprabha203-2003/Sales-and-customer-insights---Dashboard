@@ -9,6 +9,6 @@ Customer Insights – Analyze customer purchase behavior.
 Interactive Filters – Filter data by date, category, and region.
 
 # Tools & Technologies
-Power BI 
+Power BI- Dashboard.
 Data Cleaning & Preparation – Power query
 
